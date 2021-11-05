@@ -20,7 +20,7 @@
 👨‍💻  I am passionate about Kubernetes, Web Dev, DevOps & I enjoy learning new things. </br>
 
 ### My Experiences 🙌
-- [Udaan](https://udaan.com/) - Engineer at Pharma Tech Supply Chain And Moniotoring Admin.
+- [Udaan](https://udaan.com/) - Engineer at Pharma Tech Supply Chain And Monitoring Admin.
 - [Google Summer of Code Student](https://summerofcode.withgoogle.com/archive/2020/projects/4881505114914816/) Developer (Kubernetes - CNCF) -  Automation of Kubernetes Multi-Tenancy Benchmarks.
 - [Google Code-in Mentor](https://drive.google.com/file/d/16KWc0KMPS7raCDvfrh5Ddch2XO4uS-Ma/view?usp=sharing) (ScoreLabs) - Automated Download Queue for Communities to take the best use of Internet bandwidth.
 - [nthExam](https://nthexam.com/) - Software Engineer Intern - Student Platform using Angular 6.2 Upgraded the application from Angular 5.0 to Angular 6.2. Worked on authentication and authorization of the application, included social login to the application. It include various sub modules including practice set, bookmarking and recommendation based on client side socket.
